@@ -6,8 +6,11 @@ The Indian Premier League (IPL) stands as one of the most popular and dynamic cr
 
 ## Project Objectives
 Data Preparation: Cleaning, wrangling, and structuring the IPL dataset to ensure suitability for analysis.
+
 Exploratory Analysis: Employing Python libraries such as Pandas, NumPy, Matplotlib to perform extensive exploratory analysis.
+
 Player and Team Insights: Uncovering insights into player performance, team strategies, match dynamics, and historical trends.
+
 Statistical Trends: Identifying statistical trends, such as highest run-scorers, top wicket-takers, match-winning performances, and team performance over seasons.
 
 ## Expected Outcomes
